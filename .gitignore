@@ -1,0 +1,16 @@
+# Executables
+*.exe
+
+# Generated Lex/Yacc files
+lex.yy.c
+y.tab.c
+y.tab.h
+*.tab.c
+*.tab.h
+
+# Object files
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
